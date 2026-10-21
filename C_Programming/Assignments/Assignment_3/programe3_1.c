@@ -10,6 +10,7 @@ void PrintEven(int iNo)
     {
         return;
     }
+    int iCnt = 0;
     for()
     
 }
