@@ -16,7 +16,7 @@ void PrintEven(int iNo)
     {
         int iMul = 0;
         iMul = 1;
-        iMul = iMul * iCnt;
+        iMul = 2 * iCnt;
 
         printf("%d\t",iMul);
     }
