@@ -18,7 +18,7 @@ int main()
 {
     int iValue = 0;
 
-    printf("Enter number \n");
+    printf("Enter number :\n");
 
     scanf("%d",&iValue);
 
