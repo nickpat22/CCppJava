@@ -3,7 +3,7 @@
 Input : 36
 
 Output : 2  6  12  18*/
-
+#in
 void DisplayEvenFactor(int iNo)
 {
     int i = 0;
