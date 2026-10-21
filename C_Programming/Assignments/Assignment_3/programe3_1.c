@@ -11,6 +11,7 @@ void PrintEven(int iNo)
         return;
     }
     int iCnt = 0;
+    iCnt = 1;
     for()
     
 }
