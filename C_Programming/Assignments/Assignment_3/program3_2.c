@@ -3,7 +3,7 @@
 Input : 24
 
 Output : 1  2  4  6  8  12 */
-
+#include<std
 void DisplayFactor(int iNo)
 {
     int i = 0;
