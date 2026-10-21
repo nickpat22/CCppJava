@@ -15,7 +15,8 @@ void PrintEven(int iNo)
     for(iCnt = 1; iNo >= iCnt; iCnt++)
     {
         int iMul = 0;
-        iMul = 
+        iMul = 1;
+        im
     }
     
 }
