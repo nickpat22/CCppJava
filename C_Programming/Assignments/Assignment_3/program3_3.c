@@ -15,7 +15,7 @@ void DisplayEvenFactor(int iNo)
 
     for(i = 1; i <= iNo ;i++)
     {
-        if((i) && _____)
+        if((iNo % 2 == 0) && _____)
         {
 
         }
