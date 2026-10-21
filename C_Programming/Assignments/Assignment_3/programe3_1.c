@@ -16,7 +16,9 @@ void PrintEven(int iNo)
     {
         int iMul = 0;
         iMul = 1;
-        iMul = iMul * 2
+        iMul = iMul * 2;
+
+        print
     }
     
 }
