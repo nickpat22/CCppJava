@@ -3,7 +3,7 @@
 Input : 36
 
 Output : 2  6  12  18*/
-#include(stdio.h)
+#include<stdio.h
 void DisplayEvenFactor(int iNo)
 {
     int i = 0;
