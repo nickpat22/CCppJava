@@ -17,7 +17,7 @@ void DisplayFactor(int iNo)
     {
         if(iNo % i == 0)
         {
-            printf("%d",i);
+            printf("%d\t",i);
         }
     }
 }
