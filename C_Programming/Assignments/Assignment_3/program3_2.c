@@ -15,7 +15,7 @@ void DisplayFactor(int iNo)
 
     for(i = 1; i <= iNo ;i++)
     {
-        if(_______)
+        if(iNo % )
         {
             printf("%d",i);
         }
