@@ -1,8 +1,8 @@
-/3. Write a program which accept number from user and print even factors of that number.
+/*3. Write a program which accept number from user and print even factors of that number.
 
 Input : 36
 
-Output : 2  6  12  18
+Output : 2  6  12  18*/
 
 void DisplayEvenFactor(int iNo)
 {
