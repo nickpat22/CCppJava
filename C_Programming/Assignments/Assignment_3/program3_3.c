@@ -17,7 +17,7 @@ void DisplayEvenFactor(int iNo)
     {
         if((iNo % 2 == 0) && (iNo !=0))
         {
-            printf("%d\t",i)
+            printf("%d\t",i);
         }
     }
 }
