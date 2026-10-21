@@ -3,7 +3,7 @@
 /* Input : 7
 
 Output : 2  4  6  8  10  12  14 */
-
+#include<stdio.h>
 void PrintEven(int iNo)
 {
     if(iNo <= 0)
