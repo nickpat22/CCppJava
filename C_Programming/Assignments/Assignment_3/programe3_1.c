@@ -12,7 +12,7 @@ void PrintEven(int iNo)
     }
     int iCnt = 0;
     iCnt = 1;
-    for(iCnt = 1; iNo <=)
+    for(iCnt = 1; iNo <= iCnt)
     
 }
 
