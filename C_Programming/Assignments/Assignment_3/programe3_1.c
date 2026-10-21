@@ -18,7 +18,7 @@ void PrintEven(int iNo)
         iMul = 1;
         iMul = iMul * 2;
 
-        print
+        printf("")
     }
     
 }
