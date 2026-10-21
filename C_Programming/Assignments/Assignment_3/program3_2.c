@@ -13,7 +13,7 @@ void DisplayFactor(int iNo)
         iNo = -iNo;
     }
 
-    for(i = 1; i <= iNo ;i++)
+    for(i = 1; i < iNo ;i++)
     {
         if(iNo % i == 0)
         {
