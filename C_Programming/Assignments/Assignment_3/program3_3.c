@@ -30,7 +30,7 @@ int main()
 
     scanf("%d",&iValue);
 
-    DisplayEvenFactor(_______);
+    DisplayEvenFactor(iValue);
 
     return 0;
 }
