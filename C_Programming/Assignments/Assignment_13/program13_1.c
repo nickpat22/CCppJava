@@ -10,7 +10,7 @@ int CountEven(int iNo)
     iDigit = iNo;
     while(iNo != 0)
     {
-        if()
+        if(iDigit % 2 ==)
     }
 }
 
