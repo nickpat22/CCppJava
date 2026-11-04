@@ -5,7 +5,7 @@
 
 int CountEven(int iNo)
 {
-    // Logic
+    int iDigit = 0
 }
 
 int main()
