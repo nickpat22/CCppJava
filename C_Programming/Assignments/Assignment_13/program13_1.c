@@ -8,7 +8,7 @@ int CountEven(int iNo)
     int iDigit = 0,
         iCount = 0;
 
-    if
+    while(iNo )
 }
 
 int main()
