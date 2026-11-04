@@ -13,7 +13,7 @@ int CountRange(int iNo)
         iNo = -iNo;
     }
     
-    while(iNo >)
+    while(iNo >= )
     {
         iDigit = iNo % 10;
         if(iDigit % 2 != 0)
