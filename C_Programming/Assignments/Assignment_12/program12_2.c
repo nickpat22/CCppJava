@@ -10,6 +10,10 @@ typedef int BOOL;
 BOOL ChkZero(int iNo)
 {
     int iDigit = 0;
+    if(iNo < 0)
+    {
+        iNo = -iNo;
+    }
     while(iNo != 0)
     {
         iDigit = iNo % 10;
