@@ -17,6 +17,7 @@ int CountEven(int iNo)
         }
         iNo = iNo / 10;
     }
+    return iCount
 }
 
 int main()
