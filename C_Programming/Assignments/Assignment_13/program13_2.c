@@ -16,7 +16,7 @@ int CountOdd(int iNo)
     while(iNo != 0)
     {
         iDigit = iNo % 10;
-        if(iDigit % 2 = 0)
+        if(iDigit % 2 != 0)
         {
             iCount++;
         }
