@@ -5,7 +5,8 @@
 
 int CountEven(int iNo)
 {
-    int iDigit = 0
+    int iDigit = 0,
+        iCount = 0;
 }
 
 int main()
