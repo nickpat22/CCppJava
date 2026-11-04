@@ -5,25 +5,7 @@
 
 int CountRange(int iNo)
 {
-    int iDigit = 0,
-        iCount = 0;
-
-    if(iNo < 0)
-    {
-        iNo = -iNo;
-    }
-    
-    while(iNo != 0)
-    {
-        iDigit = iNo % 10;
-        if(iDigit % 2 != 0)
-        {
-            iCount++;
-        }
-        iNo = iNo / 10;
-    }
-    return iCount;
-}
+    // Logic
 }
 
 int main()
