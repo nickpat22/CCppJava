@@ -5,7 +5,18 @@
 
 int Count(int iNo)
 {
-    // Logic
+    int iDigit = 0,
+        iCount = 0;
+        while(iNo != 0)
+        {
+            iDigit = iNo % 10;
+            if (iDigit == 4)
+            {
+                iCount++;
+            }
+            iNo = iNo / 10;
+        }
+        return iCount;
 }
 
 int main()
