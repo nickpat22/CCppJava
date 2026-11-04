@@ -17,7 +17,7 @@ int CountEven(int iNo)
         }
         iNo = iNo / 10;
     }
-    return iCount
+    return iCount;
 }
 
 int main()
@@ -25,7 +25,7 @@ int main()
     int iValue = 0;
     int iRet = 0;
 
-    printf("Enter number");
+    printf("Enter number : ");
     scanf("%d",&iValue);
 
     iRet = CountEven(iValue);
