@@ -4,6 +4,10 @@
 
 int CountFour(int iNo)
 {
+    if(iNo < 0)
+    {
+        iNo = -iNo;
+    }
     int iDigit = 0,
         iCount = 0;
         while(iNo != 0)
