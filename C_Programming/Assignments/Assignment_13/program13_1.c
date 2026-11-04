@@ -15,7 +15,7 @@ int CountEven(int iNo)
         {
             iCount++;
         }
-        iNo = i
+        iNo = iNo / 10;
     }
 }
 
