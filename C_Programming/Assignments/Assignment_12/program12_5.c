@@ -10,7 +10,7 @@ int Count(int iNo)
         while(iNo != 0)
         {
             iDigit = iNo % 10;
-            if (iDigit < )
+            if (iDigit < 6)
             {
                 iCount++;
             }
