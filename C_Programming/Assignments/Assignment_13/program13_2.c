@@ -5,7 +5,24 @@
 
 int CountOdd(int iNo)
 {
-    // Logic
+    int iDigit = 0,
+        iCount = 0;
+
+    if(iNo < 0)
+    {
+        iNo = -iNo;
+    }
+    
+    while(iNo != 0)
+    {
+        iDigit = iNo % 10;
+        if(iDigit % 2 = 0)
+        {
+            iCount++;
+        }
+        iNo = iNo / 10;
+    }
+    return iCount;
 }
 
 int main()
