@@ -10,7 +10,7 @@ int CountEven(int iNo)
 
     while(iNo != 0)
     {
-        iD
+        
     }
 }
 
