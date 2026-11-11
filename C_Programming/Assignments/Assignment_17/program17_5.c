@@ -10,7 +10,6 @@ void Pattern(int iRow, int iCol)
     int k = 1;
     for(i = 1; i <= iRow; i++)
     {
-        k = 
         for(j = k; j <= iCol; j++)
         {
             printf("%d\t",j);
