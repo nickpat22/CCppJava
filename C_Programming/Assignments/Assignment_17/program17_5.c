@@ -7,10 +7,10 @@ void Pattern(int iRow, int iCol)
 {
     int i = 0;
     int j = 0;
-    int k = 0;
+    int k = 1;
     for(i = 1; i <= iRow; i++)
     {
-        k = 1;
+        k = 
         for(j = k; j <= iCol; j++)
         {
             printf("%d\t",j);
