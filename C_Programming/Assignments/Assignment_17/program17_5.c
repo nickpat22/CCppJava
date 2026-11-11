@@ -12,7 +12,7 @@ void Pattern(int iRow, int iCol)
     {
         for(j = i; j <= iCol; j++)
         {
-            if(i = j + 1)
+            if(i = i + 1)
             printf("%d\t",j);
             
         }
