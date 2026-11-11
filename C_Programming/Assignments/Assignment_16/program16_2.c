@@ -17,15 +17,14 @@ void Pattern(int iRow, int iCol)
 
           if( i % 2 == 0)
           {
-            printf("%d\t",chSmall);
+            printf("%c\t",chSmall);
           }
           else
           {
-            printf("%d\t",chCapital);1111111
+            printf("%c\t",chCapital);
           }  
         }
-        printf("\n");111111
-        333
+        printf("\n");
     }
 }
 
