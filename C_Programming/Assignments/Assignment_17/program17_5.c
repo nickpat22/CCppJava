@@ -16,6 +16,7 @@ void Pattern(int iRow, int iCol)
             k = k + 1;
         }
         
+        
         printf("\n");
     }
 }
