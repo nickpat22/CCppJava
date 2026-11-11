@@ -14,7 +14,7 @@ void Pattern(int iRow, int iCol)
         {
             printf("%d\t",j); 
         }
-        j = 
+        j = i + 1;
 
         
         printf("\n");
