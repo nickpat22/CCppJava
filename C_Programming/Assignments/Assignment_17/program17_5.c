@@ -13,7 +13,7 @@ void Pattern(int iRow, int iCol)
         {
             printf("%d",j);
         }
-    }printf
+    }printf("\n")
 }
 
 int main()
