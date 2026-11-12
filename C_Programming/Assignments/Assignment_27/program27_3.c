@@ -7,7 +7,7 @@
 int Difference(char *str)
 {
     int iCntSnall = 0,
-        iCntBig;
+        iCntBig = 0;
 
     // Filter
 
@@ -15,7 +15,7 @@ int Difference(char *str)
     {
         if(*str >= 'a' && *str <= 'z')
         {
-            iCnt++;
+            iCntSnall++;
         }
         str++;
     }
