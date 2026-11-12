@@ -6,7 +6,8 @@
 
 int Difference(char *str)
 {
-    int iCntSnall = 0;
+    int iCntSnall = 0,
+        iCntBig;
 
     // Filter
 
