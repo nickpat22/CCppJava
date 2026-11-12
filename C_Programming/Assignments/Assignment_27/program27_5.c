@@ -14,9 +14,9 @@ void Reverse(char *str)
         end++;
     }
     end = end - 1; 
-    while(*str != '\0')
+    while(*start < *end)
     {
-        if(*start < *end)
+        *start < *end)
         {
             ch = *end;
             end = start;
