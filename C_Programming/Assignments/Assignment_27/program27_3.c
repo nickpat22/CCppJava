@@ -25,7 +25,7 @@ int Difference(char *str)
         str++;
     }
 
-    return iCntSnall ;
+    return iCntSnall - iCntBig;
 }
 
 int main()
