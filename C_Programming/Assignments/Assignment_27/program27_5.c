@@ -19,7 +19,7 @@ void Reverse(char *str)
         if(*start < *end)
         {
             ch = *end;
-            end = ;
+            end = start;
             ch = *start;
 
             start++;
