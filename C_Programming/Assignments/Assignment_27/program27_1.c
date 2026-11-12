@@ -7,7 +7,10 @@ int CountCapital(char *str)
 {
     int iCnt = 0;
 
-    if(*str >= 'A' && *str <= )
+    if(*str >= 'A' && *str <= 'Z')
+    {
+        
+    }
 
     while(*str != '\0')
     {
