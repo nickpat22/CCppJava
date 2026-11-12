@@ -9,7 +9,7 @@ void Reverse(char *str)
     char *end = str;
     char ch = '\0';
 
-    while (*str != '\0')
+    while (* != '\0')
     {
         
     }
