@@ -23,7 +23,7 @@ void Reverse(char *str)
             str++;
             end--;
         } 
-        
+        str++;
     }
 }
 
