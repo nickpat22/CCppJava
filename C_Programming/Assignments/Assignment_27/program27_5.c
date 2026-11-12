@@ -9,7 +9,7 @@ void Reverse(char *str)
     char *end = str;
     char ch = '\0';
 
-    while(sta)
+    while(*str)
 }
 
 int main()
