@@ -17,6 +17,11 @@ int Difference(char *str)
         {
             iCntSnall++;
         }
+        else if (condition)
+        {
+            /* code */
+        }
+        
         str++;
     }
 
