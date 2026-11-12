@@ -21,11 +21,11 @@ int Difference(char *str)
         {
             iCntBig++;
         }
-        
+
         str++;
     }
 
-    return ______;
+    return iCntSnall ;
 }
 
 int main()
