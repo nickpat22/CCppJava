@@ -8,6 +8,8 @@ void Reverse(char *str)
     char *start = str;
     char *end = str;
     char ch = '\0';
+
+    while(sta)
 }
 
 int main()
