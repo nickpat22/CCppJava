@@ -11,8 +11,10 @@ void Reverse(char *str)
 
     while(*str != '\0')
     {
-        if()
-        {}
+        if(s)
+        {
+
+        }
         str++;
     }
 }
