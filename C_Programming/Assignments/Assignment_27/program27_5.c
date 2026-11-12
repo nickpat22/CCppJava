@@ -16,7 +16,7 @@ void Reverse(char *str)
     
     while(*str != '\0')
     {
-        if(*start < *end)
+        if(*start > *end)
         {
             *start = ch;
             ch = *end;
