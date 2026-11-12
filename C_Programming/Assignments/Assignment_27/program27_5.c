@@ -11,7 +11,7 @@ void Reverse(char *str)
 
     while (*end != '\0')
     {
-        end++;
+        *end++;
     }
     
     while(*str != '\0')
@@ -21,7 +21,7 @@ void Reverse(char *str)
             *start = ch;
             ch = *end;
             *end = *start;
-            
+
             str++;
             end--;
         } 
