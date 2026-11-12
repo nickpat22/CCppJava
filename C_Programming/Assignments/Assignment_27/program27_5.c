@@ -10,6 +10,9 @@ void Reverse(char *str)
     char ch = '\0';
 
     while(*str != '\0')
+    {
+        
+    }
 }
 
 int main()
