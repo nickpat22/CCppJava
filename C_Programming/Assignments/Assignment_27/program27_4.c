@@ -9,7 +9,14 @@ typedef int BOOL;
 
 BOOL ChkVowel(char *str)
 {
-    // Logic
+    while(*str != '\0')
+    {
+        if(*str >= 'a' && *str <= 'z')
+        {
+            iCnt++;
+        }
+        str++;
+    }
 }
 
 int main()
