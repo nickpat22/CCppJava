@@ -18,7 +18,7 @@ void Reverse(char *str)
     {
         if(*start < *end)
         {
-            ch = end;
+            ch = *end;
             end = ch;
             ch = *start;
 
