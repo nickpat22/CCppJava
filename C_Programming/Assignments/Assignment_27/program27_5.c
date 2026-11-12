@@ -17,14 +17,13 @@ void Reverse(char *str)
     while(*start < *end)
     {
         
-            ch = *end;
-            *end = start;
-            *start = ch;
+        ch = *end;
+        *end = start;
+        *start = ch;
 
-            start++;
-            end--;
-        
-        str++;
+        start++;
+        end--;
+
     }
 }
 
