@@ -13,6 +13,7 @@ void Reverse(char *str)
     {
         if(start < end)
         {
+            *start = ch;
             
         }
         str++;
