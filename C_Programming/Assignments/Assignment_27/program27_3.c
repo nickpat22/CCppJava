@@ -19,7 +19,7 @@ int Difference(char *str)
         }
         else if (*str >= 'A' && *str <= 'Z')
         {
-            iCntBig
+            iCntBig++;
         }
         
         str++;
