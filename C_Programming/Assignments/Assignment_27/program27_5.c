@@ -6,7 +6,8 @@
 void Reverse(char *str)
 {
     char *start = str;
-    char *end = str
+    char *end = str;
+    char ch = 
 }
 
 int main()
