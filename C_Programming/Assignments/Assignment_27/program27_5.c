@@ -22,7 +22,6 @@ void Reverse(char *str)
             ch = *end;
             *end = *start;
         }
-        else
         str++;
         end--;
     }
