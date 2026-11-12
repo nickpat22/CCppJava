@@ -18,7 +18,7 @@ int CountCapital(char *str)
         str++;
     }
 
-    returni;
+    return iCnt;
 }
 
 int main()
