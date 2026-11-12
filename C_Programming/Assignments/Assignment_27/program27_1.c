@@ -15,6 +15,7 @@ int CountCapital(char *str)
         {
             iCnt++;
         }
+        str++;
     }
 
     return ______;
