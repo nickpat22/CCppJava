@@ -12,7 +12,11 @@ int Difference(char *str)
 
     while(*str != '\0')
     {
-        // Logic
+        if(*str >= 'a' && *str <= 'z')
+        {
+            iCnt++;
+        }
+        str++;
     }
 
     return ______;
