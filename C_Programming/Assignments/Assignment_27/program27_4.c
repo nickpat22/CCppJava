@@ -11,7 +11,7 @@ BOOL ChkVowel(char *str)
 {
     while(*str != '\0')
     {
-        if(*str == 'a' || *str || 'z')
+        if(*str == 'a' || *str || 'e')
         {
             iCnt++;
         }
