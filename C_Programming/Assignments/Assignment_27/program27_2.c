@@ -9,7 +9,7 @@ int CountSmall(char *str)
 
     while(*str != '\0')
     {
-        if(*str >= 'A' && *str <= 'Z')
+        if(*str >= 'a' && *str <= 'z')
         {
             iCnt++;
         }
