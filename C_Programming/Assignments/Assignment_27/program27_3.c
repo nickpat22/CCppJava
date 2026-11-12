@@ -17,7 +17,7 @@ int Difference(char *str)
         {
             iCntSnall++;
         }
-        else if (condition)
+        else if (*str >= 'A' && *str <= 'Z')
         {
             /* code */
         }
