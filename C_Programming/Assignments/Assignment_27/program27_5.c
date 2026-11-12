@@ -24,6 +24,7 @@ void Reverse(char *str)
         }
         else
         str++;
+        end--;
     }
 }
 
