@@ -5,16 +5,18 @@
 
 int CountSmall(char *str)
 {
-    int iCnt = 0;
-
-    // Filter
+    int iCnt = 0;  
 
     while(*str != '\0')
     {
-        // Logic
+        if(*str >= 'A' && *str <= 'Z')
+        {
+            iCnt++;
+        }
+        str++;
     }
 
-    return ______;
+    return iCnt;
 }
 
 int main()
