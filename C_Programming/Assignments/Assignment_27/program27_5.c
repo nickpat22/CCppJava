@@ -13,7 +13,7 @@ void Reverse(char *str)
     {
         end++;
     }
-    
+    end = 
     while(*str != '\0')
     {
         if(*start < *end)
