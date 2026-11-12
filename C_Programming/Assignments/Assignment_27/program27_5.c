@@ -9,6 +9,11 @@ void Reverse(char *str)
     char *end = str;
     char ch = '\0';
 
+    while (condition)
+    {
+        /* code */
+    }
+    
     while(*str != '\0')
     {
         if(*start < *end)
