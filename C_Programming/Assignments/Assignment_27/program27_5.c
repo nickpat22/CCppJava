@@ -5,7 +5,7 @@
 
 void Reverse(char *str)
 {
-    
+    char *star
 }
 
 int main()
