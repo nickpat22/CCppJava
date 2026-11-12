@@ -15,7 +15,7 @@ void Reverse(char *str)
         {
             *start = ch;
             ch = *end;
-            
+            *end = 
 
         }
         str++;
