@@ -35,6 +35,6 @@ int main()
     scanf("%19[^\n]", arr);
 
     Reverse(arr);
-
+    printf)
     return 0;
 }
