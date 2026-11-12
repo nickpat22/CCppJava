@@ -20,6 +20,7 @@ void Reverse(char *str)
         {
             *start = end;
             end = ch;
+            ch = *
 
             start++;
             end--;
