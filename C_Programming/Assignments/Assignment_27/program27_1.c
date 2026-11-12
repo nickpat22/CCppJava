@@ -7,7 +7,7 @@ int CountCapital(char *str)
 {
     int iCnt = 0;
 
-    // Filter
+    if()
 
     while(*str != '\0')
     {
