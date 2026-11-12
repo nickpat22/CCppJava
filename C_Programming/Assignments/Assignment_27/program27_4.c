@@ -13,7 +13,7 @@ BOOL ChkVowel(char *str)
     {
         if(*str == 'a' || *str == 'e' || *str == 'i' || *str == 'o' || *str == 'u')
         {
-            return Tr
+            return TRUE;
         }
         str++;
     }
