@@ -1,8 +1,8 @@
 #include<stdio.h>
 void Display(iNo)
 {
-int iCnt = 0;
-for (iCnt = 1; iCnt <= iNo; iCnt++)
+   int iCnt = 0;
+   for (iCnt = 1; iCnt <= iNo; iCnt++)
 {
    printf("Jay Ganesh...\tJay Ganesh...");
 }
