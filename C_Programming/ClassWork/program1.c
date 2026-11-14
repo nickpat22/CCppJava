@@ -1,7 +1,8 @@
  #include<stdio.h>
  void Display()
  {
-   for int
+   int i = 0;
+   
  }
  int main()
  {
