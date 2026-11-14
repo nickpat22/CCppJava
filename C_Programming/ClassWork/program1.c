@@ -9,7 +9,8 @@
  }
  int main()
  {
-   printf("Enter Number of times to prints")
+   printf("Enter Number of times to print : ")
+   
     printf("Jay Ganesh...\n");
 
     return 0;
