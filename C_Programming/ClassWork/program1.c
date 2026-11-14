@@ -1,8 +1,8 @@
  #include<stdio.h>
  void Display()
  {
-   int i = 0;
-   
+   int iCnt = 0;
+
  }
  int main()
  {
