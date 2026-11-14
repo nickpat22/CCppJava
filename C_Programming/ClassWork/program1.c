@@ -14,7 +14,7 @@ int main()
    printf("Enter Number of times to print : ");
    scanf("%d",&Value);
 
-   Display()
+   Display(Value);
 
    return 0;
 }
