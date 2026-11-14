@@ -10,7 +10,7 @@ void Display(iNo)
 int main()
 {
 
-printf("Enter Number of times to print : ")
+   printf("Enter Number of times to print : ")
 
    printf("Jay Ganesh...\n");
 
