@@ -1,8 +1,8 @@
  #include<stdio.h>
- void Display()
+ void Display(iNo)
  {
    int iCnt = 0;
-
+   p
  }
  int main()
  {
