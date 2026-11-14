@@ -11,7 +11,7 @@ int main()
 {
 
    printf("Enter Number of times to print : ");
-   scanf(%)
+   scanf("%d",)
 
    printf("Jay Ganesh...\n");
 
