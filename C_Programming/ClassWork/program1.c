@@ -4,7 +4,7 @@
    int iCnt = 0;
    for (iCnt = 1; iCnt <= iNo; iCnt++)
    {
-      printf("Jay Ganesh...\t");
+      printf("Jay Ganesh...\tJay Ganesh...");
    }
  }
  int main()
