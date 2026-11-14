@@ -9,7 +9,7 @@
  }
  int main()
  {
-   printf("Enter ")
+   printf("Enter Number")
     printf("Jay Ganesh...\n");
 
     return 0;
