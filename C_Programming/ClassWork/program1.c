@@ -1,17 +1,18 @@
- #include<stdio.h>
- void Display(iNo)
- {
-   int iCnt = 0;
-   for (iCnt = 1; iCnt <= iNo; iCnt++)
-   {
-      printf("Jay Ganesh...\tJay Ganesh...");
-   }
- }
- int main()
- {
-   printf("Enter Number of times to print : ")
-   
-    printf("Jay Ganesh...\n");
+#include<stdio.h>
+void Display(iNo)
+{
+int iCnt = 0;
+for (iCnt = 1; iCnt <= iNo; iCnt++)
+{
+   printf("Jay Ganesh...\tJay Ganesh...");
+}
+}
+int main()
+{
 
-    return 0;
- }
+printf("Enter Number of times to print : ")
+
+   printf("Jay Ganesh...\n");
+
+   return 0;
+}
