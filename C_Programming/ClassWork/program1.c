@@ -2,7 +2,10 @@
  void Display(iNo)
  {
    int iCnt = 0;
-   for (iCnt = 1; iCnt <= iNo)
+   for (iCnt = 1; iCnt <= iNo; iCnt++)
+   {
+      pr
+   }
  }
  int main()
  {
