@@ -10,11 +10,11 @@ void Display(iNo)
 int main()
 {
    int Value = 0;
-   int iRet = 0;
+   
    printf("Enter Number of times to print : ");
    scanf("%d",&Value);
 
-   i
+   Display()
 
    return 0;
 }
