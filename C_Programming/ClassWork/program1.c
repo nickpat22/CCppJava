@@ -2,7 +2,7 @@
  void Display(iNo)
  {
    int iCnt = 0;
-   p
+   for (i = 1; iCny)
  }
  int main()
  {
