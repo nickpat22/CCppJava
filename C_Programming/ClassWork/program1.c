@@ -9,9 +9,9 @@ void Display(iNo)
 }
 int main()
 {
-   int Va
+   int Value = 0;
    printf("Enter Number of times to print : ");
-   scanf("%d",&Value)
+   scanf("%d",&Value);
 
    printf("Jay Ganesh...\n");
 
