@@ -1,5 +1,5 @@
  #include<stdio.h>
- void 
+ void Display()
  int main()
  {
     printf("Jay Ganesh...\n");
