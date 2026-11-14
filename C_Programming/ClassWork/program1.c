@@ -9,7 +9,7 @@ void Display(iNo)
 }
 int main()
 {
-
+   int Va
    printf("Enter Number of times to print : ");
    scanf("%d",&Value)
 
