@@ -30,7 +30,7 @@ class Logic
             }
             for(int iCnt = 0; iCnt < iNo; iCnt ++)
             {
-                System.out.print("*   ");
+                System.out.print("*\t");
             }
             for(int iCnt = 0; iCnt < iNo; iCnt ++)
             {
