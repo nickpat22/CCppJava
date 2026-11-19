@@ -7,7 +7,7 @@ class program9_1
     {
             int iValue = 0;
 
-            System.out.println("Enter number : ");
+            System.out.println("Enter number :");
             
             Scanner sobj = new Scanner(System.in);
 
