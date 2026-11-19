@@ -22,5 +22,19 @@ class Logic
 {
 
 
- 
+        public static void TableRev(int iNo)
+        {
+            if(iNo < 0)
+            {
+                iNo = -iNo;
+            }
+            for(int iCnt = 0; iCnt < iNo; iCnt ++)
+            {
+                System.out.print("*\t");
+            }
+            for(int iCnt = 0; iCnt < iNo; iCnt ++)
+            {
+                System.out.print("#\t");
+            }
+        }
 }
